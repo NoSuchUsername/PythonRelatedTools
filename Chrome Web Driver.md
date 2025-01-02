@@ -1,0 +1,2 @@
+A **Chrome WebDriver**: a tool that allows automation of web browsers, specifically **Google Chrome**, through code. 
+Component of the [[Selenium]] framework, used for web automation tasks such as testing, scraping, and browser interaction.

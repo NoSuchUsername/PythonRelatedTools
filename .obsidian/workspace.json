@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "418792f5d669b103",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed0a7527de87585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f1e7d2f754850a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jupyter notebook setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jupyter notebook setup"
+            }
+          },
+          {
+            "id": "de7e0721119daf3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jupyter notebook setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jupyter notebook setup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33f5da949c49d056",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cbf90298ddedba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10256507d693be1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cda568fb10086b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "255f9418e0747fdc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b441d478453ba7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5d710da8b193fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d77af47f7056aa8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jupyter notebook setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Jupyter notebook setup"
+            }
+          },
+          {
+            "id": "1d07bee6fe480c10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jupyter notebook setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Jupyter notebook setup"
+            }
+          },
+          {
+            "id": "1e155a633549b230",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc2378a978756943",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jupyter notebook setup.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Jupyter notebook setup"
+            }
+          },
+          {
+            "id": "4a72f297a108d03e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "10256507d693be1b",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Jupyter notebook setup.md",
+    "Selenium.md",
+    "Chrome Web Driver.md",
+    "BeautifulSoup.md",
+    "2025-01-02.md",
+    "Welcome.md"
+  ]
+}
