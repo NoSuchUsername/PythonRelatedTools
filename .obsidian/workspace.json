@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chrome Web Driver.md",
+                "file": "Jupyter notebook setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chrome Web Driver"
+              "title": "Jupyter notebook setup"
             }
           },
           {
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,12 +187,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a72f297a108d03e",
+  "active": "b8f1e7d2f754850a",
   "lastOpenFiles": [
-    "Jupyter notebook setup.md",
-    "Untitled.canvas",
     "Selenium.md",
     "Chrome Web Driver.md",
+    "Jupyter notebook setup.md",
+    "Untitled.canvas",
     "BeautifulSoup.md",
     "2025-01-02.md",
     "Welcome.md"
